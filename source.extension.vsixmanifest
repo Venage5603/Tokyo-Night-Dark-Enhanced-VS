@@ -3,8 +3,8 @@
     <Metadata>
         <Identity Id="Tokyo_Night_Dark_Enhanced_VS.b3131caf-3a0e-464b-a200-154b30911b5d" Version="1.0" Language="en-US" Publisher="Venage5603" />
         <DisplayName>Tokyo Night Dark Enhanced VS</DisplayName>
-        <Description xml:space="preserve">a port of my VS Code extension "Tokyo Night Dark Enhanced" for Visual Studio!a port of my V
-        <Icon>icon.png</Icon>S</Description>
+        <Description xml:space="preserve">a port of my VS Code extension "Tokyo Night Dark Enhanced" for Visual Studio!</Description>
+        <Icon>icon.png</Icon>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
