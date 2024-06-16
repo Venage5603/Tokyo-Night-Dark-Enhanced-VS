@@ -61,8 +61,8 @@
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Properties\Tokyo-Night-Dark-Enhanced-VS.pkgdef">
-      <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Tokyo-Night-Dark-Enhanced-VS.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
