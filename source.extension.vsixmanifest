@@ -6,7 +6,6 @@
         <Description xml:space="preserve">a port of my VS Code extension "Tokyo Night Dark Enhanced" for Visual Studio!</Description>
         <License >LICENSE.txt</License>
         <Icon>icon.png</Icon>
-        <Tags>html C# C++ Unreal-Engine Unreal-Engine-5 UE UE5 Dark-Theme Tokyo-Night</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
