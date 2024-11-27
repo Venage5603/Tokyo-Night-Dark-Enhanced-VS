@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Tokyo_Night_Dark_Enhanced_VS.b4939caf-3a0e-464b-a200-154b30911b5d" Version="1.5" Language="en-US" Publisher="Venage5603" />
+        <Identity Id="Tokyo_Night_Dark_Enhanced_VS.b4939caf-3a0e-464b-a200-154b30911b5d" Version="1.6" Language="en-US" Publisher="Venage5603" />
         <DisplayName>Tokyo Night Dark Enhanced VS</DisplayName>
         <Description xml:space="preserve">a port of my VS Code extension "Tokyo Night Dark Enhanced" for Visual Studio!</Description>
         <License >LICENSE.txt</License>
